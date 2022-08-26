@@ -19,6 +19,7 @@
 
 .bars{
     display: none;
+    visibility: hidden;
 }
 
 .logo-img{
